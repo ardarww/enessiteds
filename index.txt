@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Enes Elektronik | Erzurum Merkezi Uydu & Güvenlik Kamera Sistemleri</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Enes Elektronik Erzurum merkezde uydu sistemleri, merkezi uydu, güvenlik kamera sistemleri kurulumu ve teknik servis hizmetleri.">
+  <meta name="keywords" content="Erzurum merkezi uydu sistemleri, uydu kurulumu erzurum, güvenlik kamera sistemleri erzurum, Enes Elektronik">
+  <meta name="author" content="Enes Elektronik">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+    }
+
+    header {
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    header h1 {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 18px;
+      opacity: 0.9;
+    }
+
+    .buttons {
+      margin-top: 30px;
+    }
+
+    .buttons a {
+      text-decoration: none;
+      color: #0f2027;
+      background: #00f2fe;
+      padding: 15px 25px;
+      margin: 10px;
+      border-radius: 30px;
+      font-weight: bold;
+      display: inline-block;
+      transition: 0.3s;
+    }
+
+    .buttons a:hover {
+      background: white;
+      transform: scale(1.05);
+    }
+
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.08);
+      padding: 30px;
+      border-radius: 15px;
+      margin-bottom: 30px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: rgba(0,0,0,0.3);
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Enes Elektronik</h1>
+  <p>Erzurum Merkezi Uydu Sistemleri & Güvenlik Kamera Sistemleri</p>
+
+  <div class="buttons">
+    <a href="#uydu">📡 Merkezi Uydu Sistemleri</a>
+    <a href="#kamera">📷 Güvenlik Kamera Sistemleri</a>
+    <a href="#iletisim">📞 İletişim</a>
+  </div>
+</header>
+
+<section id="uydu">
+  <div class="card">
+    <h2>📡 Erzurum Merkezi Uydu Sistemleri</h2>
+    <p>
+      Erzurum merkez ve tüm ilçelerde <strong>merkezi uydu sistemleri</strong> kurulumu,
+      apartman uydu sistemleri, çanak ayarı ve teknik servis hizmeti sunuyoruz.
+    </p>
+  </div>
+</section>
+
+<section id="kamera">
+  <div class="card">
+    <h2>📷 Güvenlik Kamera Sistemleri</h2>
+    <p>
+      Ev, iş yeri ve apartmanlar için <strong>güvenlik kamera sistemleri</strong> kurulumu,
+      bakım ve destek hizmetleri veriyoruz. Erzurum genelinde hızlı servis.
+    </p>
+  </div>
+</section>
+
+<section id="iletisim">
+  <div class="card">
+    <h2>📞 İletişim</h2>
+    <p>
+      Erzurum merkezde profesyonel elektronik çözümler için bizimle iletişime geçin.
+    </p>
+    <p>
+      📍 Erzurum <br>
+      ☎️ Telefon: 05XX XXX XX XX
+    </p>
+  </div>
+</section>
+
+<footer>
+  © 2026 Enes Elektronik | Erzurum Merkezi Uydu & Kamera Sistemleri
+</footer>
+
+</body>
+</html>
